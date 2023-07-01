@@ -1,4 +1,4 @@
-## Note that this code is for educational purposes and I will liable for any losses. You can contact a professional developer like me for a wholesome contract for business application.
+## Note that this code is for educational purposes and I will not be liable for any losses. You can contact a professional developer like me for a wholesome contract for business application.
 
 Explanation:
 
